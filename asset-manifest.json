@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/insta-pages/static/css/main.589c2ffe.chunk.css",
+    "main.js": "/insta-pages/static/js/main.08a7e3dd.chunk.js",
+    "main.js.map": "/insta-pages/static/js/main.08a7e3dd.chunk.js.map",
+    "runtime-main.js": "/insta-pages/static/js/runtime-main.0da40d40.js",
+    "runtime-main.js.map": "/insta-pages/static/js/runtime-main.0da40d40.js.map",
+    "static/js/2.478347e7.chunk.js": "/insta-pages/static/js/2.478347e7.chunk.js",
+    "static/js/2.478347e7.chunk.js.map": "/insta-pages/static/js/2.478347e7.chunk.js.map",
+    "static/js/3.e32b2764.chunk.js": "/insta-pages/static/js/3.e32b2764.chunk.js",
+    "static/js/3.e32b2764.chunk.js.map": "/insta-pages/static/js/3.e32b2764.chunk.js.map",
+    "index.html": "/insta-pages/index.html",
+    "static/css/main.589c2ffe.chunk.css.map": "/insta-pages/static/css/main.589c2ffe.chunk.css.map",
+    "static/js/2.478347e7.chunk.js.LICENSE.txt": "/insta-pages/static/js/2.478347e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0da40d40.js",
+    "static/js/2.478347e7.chunk.js",
+    "static/css/main.589c2ffe.chunk.css",
+    "static/js/main.08a7e3dd.chunk.js"
+  ]
+}
